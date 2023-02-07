@@ -1,0 +1,30 @@
+@media screen and (max-width:480px)
+{
+    h1
+    {
+        text-align: center;
+    }
+    nav
+    {
+        position: static;
+    }
+    .lista-diferencial, .imagenDiferenciales
+    {
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .caja, .principal, .e-mapa, .diferencial, .video, .productos
+    {
+        width: auto;
+    }
+    .main-contacto{
+        width: 95%;
+        margin: 0 auto;
+    }
+    .enviar{
+        width: 80%;
+    }
+    .productos li{
+        width: auto;
+    }
+}
